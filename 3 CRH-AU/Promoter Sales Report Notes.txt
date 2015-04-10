@@ -1,0 +1,6 @@
+SUMMARY
+Sales as a performance summary List, by both date range and sales to date - v10.1 - aedlich
+
+NOTES
+Breaks out price categories (gst, inside charge), and certain seat types.  
+Would need to chop out a bit of code if using single price maps to single price type.  Also handles variable price map dates
